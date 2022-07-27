@@ -57,7 +57,7 @@ app.listen(PORT, () => {
 	██╔══██╗██╔══╝  ╚════██║   ██║   ██╔══██║██╔═══╝ ██║
 	██║  ██║███████╗███████║   ██║   ██║  ██║██║     ██║
 	╚═╝  ╚═╝╚══════╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝
-			                              Make by Alip 
+			                              Make by Nanz 
 								 
  Server running on http://localhost:` + PORT)
 console.log(`Hello ${creator}`)
